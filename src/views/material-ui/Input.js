@@ -1,7 +1,7 @@
 import React, {PropTypes} from "react";
 import * as Colors from "material-ui/colors";
 import TextField from "material-ui/TextField";
-import AlertError from "material-ui/svg-icons/alert/error";
+import AlertError from "material-ui-icons/Error";
 import Immutable from "immutable";
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 

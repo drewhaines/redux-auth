@@ -53,12 +53,12 @@ module.exports = {
       "material-ui/TextField": "commonjs material-ui/TextField",
       "material-ui/colors": "commonjs material-ui/colors",
       "material-ui/styles/MuiThemeProvider": "commonjs material-ui/styles/MuiThemeProvider",
-      "material-ui/svg-icons/action/exit-to-app": "commonjs material-ui/svg-icons/action/exit-to-app",
-      "material-ui/svg-icons/action/favorite": "commonjs material-ui/svg-icons/action/favorite",
-      "material-ui/svg-icons/action/delete": "commonjs material-ui/svg-icons/action/delete",
-      "material-ui/svg-icons/content/send": "commonjs material-ui/svg-icons/content/send",
+      "material-ui-icons/ExitToApp": "commonjs material-ui-icons/ExitToApp",
+      "material-ui-icons/Favorite": "commonjs material-ui-icons/Favorite",
+      "material-ui-icons/Delete": "commonjs material-ui-icons/Delete",
+      "material-ui-icons/Send": "commonjs material-ui-icons/Send",
       "material-ui-icons/Lock": "commonjs material-ui-icons/Lock",
-      "material-ui/svg-icons/alert/error": "commonjs material-ui/svg-icons/alert/error"
+      "material-ui-icons/Error": "commonjs material-ui-icons/Error"
     }
   ],
   plugins: [

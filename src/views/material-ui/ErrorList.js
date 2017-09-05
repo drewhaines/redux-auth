@@ -1,6 +1,6 @@
 import React, { PropTypes } from "react";
 import * as Colors from "material-ui/colors";
-import AlertError from "material-ui/svg-icons/alert/error";
+import AlertError from "material-ui-icons/Error";
 import Immutable from "immutable";
 
 class ErrorList extends React.Component {
