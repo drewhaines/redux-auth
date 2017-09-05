@@ -1,7 +1,7 @@
 import React, { PropTypes } from "react";
 import RaisedButton from "material-ui/Button";
 import ActionFavorite from "material-ui/svg-icons/action/favorite";
-import * as Colors from "material-ui/colors/*";
+import * as Colors from "material-ui/colors";
 import Spinner from "react-loader";
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
