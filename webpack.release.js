@@ -51,7 +51,7 @@ module.exports = {
       "material-ui/Dialog": "commonjs material-ui/Dialog",
       "material-ui/Button": "commonjs material-ui/Button",
       "material-ui/TextField": "commonjs material-ui/TextField",
-      "material-ui/styles/colors": "commonjs material-ui/styles/colors",
+      "material-ui/colors/*": "commonjs material-ui/colors/*",
       "material-ui/styles/MuiThemeProvider": "commonjs material-ui/styles/MuiThemeProvider",
       "material-ui/svg-icons/action/exit-to-app": "commonjs material-ui/svg-icons/action/exit-to-app",
       "material-ui/svg-icons/action/favorite": "commonjs material-ui/svg-icons/action/favorite",

@@ -1,5 +1,5 @@
 import React, {PropTypes} from "react";
-import * as Colors from "material-ui/styles/colors";
+import * as Colors from "material-ui/colors/*";
 import TextField from "material-ui/TextField";
 import AlertError from "material-ui/svg-icons/alert/error";
 import Immutable from "immutable";
