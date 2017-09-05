@@ -1,6 +1,6 @@
 import React, { PropTypes } from "react";
 import Dialog from "material-ui/Dialog";
-import FlatButton from "material-ui/FlatButton";
+import FlatButton from "material-ui/Button";
 import ErrorList from "../ErrorList";
 import { connect } from "react-redux";
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
