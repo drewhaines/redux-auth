@@ -57,7 +57,7 @@ module.exports = {
       "material-ui/svg-icons/action/favorite": "commonjs material-ui/svg-icons/action/favorite",
       "material-ui/svg-icons/action/delete": "commonjs material-ui/svg-icons/action/delete",
       "material-ui/svg-icons/content/send": "commonjs material-ui/svg-icons/content/send",
-      "material-ui/svg-icons/action/lock": "commonjs material-ui/svg-icons/action/lock",
+      "material-ui-icons/Lock": "commonjs material-ui-icons/Lock",
       "material-ui/svg-icons/alert/error": "commonjs material-ui/svg-icons/alert/error"
     }
   ],
