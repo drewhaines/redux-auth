@@ -49,7 +49,6 @@ module.exports = {
       "url": "commonjs url",
       "react-bootstrap": "commonjs react-bootstrap",
       "material-ui/Dialog": "commonjs material-ui/Dialog",
-      "material-ui/RaisedButton": "commonjs material-ui/RaisedButton",
       "material-ui/Button": "commonjs material-ui/Button",
       "material-ui/TextField": "commonjs material-ui/TextField",
       "material-ui/styles/colors": "commonjs material-ui/styles/colors",

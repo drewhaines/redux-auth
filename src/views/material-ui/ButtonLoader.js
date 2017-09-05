@@ -1,5 +1,5 @@
 import React, { PropTypes } from "react";
-import RaisedButton from "material-ui/RaisedButton";
+import RaisedButton from "material-ui/Button";
 import ActionFavorite from "material-ui/svg-icons/action/favorite";
 import * as Colors from "material-ui/styles/colors";
 import Spinner from "react-loader";
@@ -110,6 +110,7 @@ class ButtonLoader extends React.Component {
    return (
       <MuiThemeProvider>
         <RaisedButton
+          raised
           {...props}
           onClick={this.handleClick.bind(this)}>
           {this.renderIcon()}
